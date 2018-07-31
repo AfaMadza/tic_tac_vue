@@ -1,6 +1,3 @@
-//Ceates the Square Class
-
-
 class Square {
     constructor() {
 	this.value = null;

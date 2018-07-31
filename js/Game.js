@@ -1,5 +1,3 @@
-//Creates the Game Class
-
 class Game {
     constructor() {
 	this.inProgress = true;
