@@ -1,6 +1,4 @@
-"""
-Creates Game Class
-"""
+//Creates the Game Class
 
 class Game {
     constructor() {

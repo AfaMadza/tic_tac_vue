@@ -1,6 +1,4 @@
-"""
-Creates Square Class
-"""
+//Ceates the Square Class
 
 
 class Square {
