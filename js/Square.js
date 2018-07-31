@@ -1,4 +1,5 @@
 """
+Creates Square Class
 """
 
 
